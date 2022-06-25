@@ -4,4 +4,4 @@ Just Download this package and run main.java
 Hope you'll enjoy the Game...
 Happy gaming.
 
-[myImages](www.github.com/Himel47/TicTacToe/img/game.png?raw=true)
+[Game](img/game.png)
