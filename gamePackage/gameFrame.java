@@ -231,7 +231,7 @@ public class gameFrame extends JFrame implements ActionListener {
                 flag=false;
             }
             else{
-                flag=true;
+                flag=true;break;
             }
         }
         if(!flag){
